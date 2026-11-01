@@ -1,2 +1,12 @@
-# C-Pacman
-C언어로 팩민 게임.
+# Introduction(소개)
+
+C언어로 팩맨 게임의 기초를 만든 코드입니다.
+
+[![Development Note p.295](https://img.youtube.com/vi/_7AYZ6t8u28/0.jpg)](https://www.youtube.com/watch?v=_7AYZ6t8u28)
+
+# Links(링크)
+
+- [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
+- [NewLand Cafe(New랜드 카페)](https://cafe.naver.com/2019newland)
+- [NewLand Discord(New랜드 디스코드)](https://discord.gg/2J646MaZGA)
+- [JkhTV Tistory(장경혁tv의 티스토리)](https://jkhtv.tistory.com)
